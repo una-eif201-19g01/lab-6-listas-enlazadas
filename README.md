@@ -1,4 +1,4 @@
-#Laboratorio #6 [Listas Enlazadas Libros]
+# Laboratorio #6 [Listas Enlazadas Libros]
 
 En este ejemplo la lista  de punteros a libro.
 
